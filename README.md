@@ -50,4 +50,4 @@ Build more webpages using HTML and CSS before moving on to React.
 ## Author
 
 - Website - [Karthik]
-- Frontend Mentor - [@ykcredd-y](https://www.frontendmentor.io/profile/kcredd-y)
+- Frontend Mentor - [@kcredd-y](https://www.frontendmentor.io/profile/kcredd-y)

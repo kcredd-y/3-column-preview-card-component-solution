@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/kcredd-y/3-column-preview-card-component-solution]
-- Live Site URL: [Add live site URL here](https://stellular-paletas-73415e.netlify.app/)
+- [Live Site URL](https://stellular-paletas-73415e.netlify.app/)
 
 ## My process
 

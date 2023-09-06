@@ -67,16 +67,6 @@ h5,
 h6 {
   overflow-wrap: break-word;
 }
-
-.attribution {
-  margin-top: 1rem;
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
-
 body {
   font-size: 0.9375rem;
   font-family: var(--ff-Lexend);
